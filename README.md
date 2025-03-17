@@ -6,9 +6,7 @@
 - 💬 Ask me about **Mern Stack Applications**
 
 - 📫 How to reach me **https://www.linkedin.com/in/quratulain-aqeel/**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/18OIezVEzwym76FxbpkkHGJ60CLldhC1Y/view?usp=sharing](https://drive.google.com/file/d/18OIezVEzwym76FxbpkkHGJ60CLldhC1Y/view?usp=sharing)
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/quratulain-aqeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quratulain-aqeel" height="30" width="40" /></a>
